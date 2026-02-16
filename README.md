@@ -1,7 +1,6 @@
 # The Probability of Solving Nerdle in Exactly Two Guesses
 
 > **TL;DR:** The best opening guess in Nerdle is `52-34=18`, giving you a **9.60%** chance of solving in exactly two guesses — nearly double the 5.66% average.
-
 > **Paper:** [doi.org/10.5281/zenodo.18653848](https://doi.org/10.5281/zenodo.18653848)
 
 ## Introduction
