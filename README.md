@@ -2,6 +2,8 @@
 
 > **TL;DR:** The best opening guess in Nerdle is `52-34=18`, giving you a **9.60%** chance of solving in exactly two guesses — nearly double the 5.66% average.
 
+> **Paper:** [doi.org/10.5281/zenodo.18653848](https://doi.org/10.5281/zenodo.18653848)
+
 ## Introduction
 
 A comprehensive analysis was conducted to determine the probability of solving the daily Nerdle puzzle in exactly two guesses. This report details the methodology used, the key findings, and a statistical breakdown of outcomes based on different strategies for the first guess. The analysis is grounded in the complete set of 17,723 possible solutions for the classic 8-character Nerdle game [1].
